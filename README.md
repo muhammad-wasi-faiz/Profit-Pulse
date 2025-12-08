@@ -1,12 +1,27 @@
-# Profit-Pulse
-ProfitPulse is a business management app that helps users track their sales, manage products, monitor profits, and view pending orders in one simple dashboard. It gives a clear, real-time picture of business performance.
+Shoe Mart
+Your Steps, Your Story.
 
-Group Members:
-Muhammad Wasi Faiz-100
-Adnan Saleem-123
-Arfeen Awan-097
+A very simple Flutter + Firebase (web-first) e-commerce demo for shoes. Email/password auth, products list, cart, and checkout — all beginner-friendly (setState only).
 
-Current Progress (Week 2):
-Core flow implemented: Add product → Record sale → Add pending order → View profit.
-Navigation added with TabBar.
-UI layout working with basic widgets.
+Features (current)
+
+Home with hero banner and “Shop Now”
+Products grid (static sample data)
+Product details with Buy Now / Add to Cart
+Cart (reads from Firestore)
+Checkout (saves orders to Firestore)
+Login / Signup (Firebase Auth)
+Works as guest (no login required)
+
+Tech
+
+Flutter (Dart)
+Firebase Auth, Cloud Firestore
+
+Team
+
+Muhammad Wasi Faiz
+Adnan Saleem
+Afreen Awan
+
+
