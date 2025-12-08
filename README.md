@@ -25,3 +25,4 @@ Adnan Saleem
 Afreen Awan
 
 
+Week 2: Login/Signup flow working (Firebase Auth, web). AuthGate added. Basic navigation to Home and Profile.
